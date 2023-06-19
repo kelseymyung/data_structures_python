@@ -1,4 +1,4 @@
-### data_structures_python
+# data_structures_python
 
 ## Disclaimer:
 This web application was developed with instruction and guidance from Oregon State University's Data Structures course (CS 261) in Winter 2023.
@@ -10,7 +10,7 @@ dynamic_array.py
 bag.py
 min_heap.py
 
-# static_array.py
+### static_array.py
 This file was provided as skeleton code by OSU CS 261 for utilization in development of the following py files:
 programming_fundamentals.py
 dynamic_array.py
@@ -18,7 +18,7 @@ bag.py
 min_heap.py
 This file was NOT created by me!
 
-# programming_fundamentals.py
+### programming_fundamentals.py
 This file contains ten mini-programming tasks that rely on the previously discussed static_array.py. 
 Please note that the test cases were provided by OSU CS 261.
 Developed functions include:
@@ -33,7 +33,7 @@ remove_duplicates
 count_sort
 sorted_squares
 
-# dynamic_array.py
+### dynamic_array.py
 This file contains code to develop functions of dynamic arrays. 
 Some functions within the DynamicArray class were provided as skeleton code.
 Please note that the test cases were provided by OSU CS 261.
@@ -49,7 +49,7 @@ filter
 reduce
 find_mode
 
-# bag.py
+### bag.py
 This file contains code to develop functions of bags.
 Some functions within the Bag class were provided as skeleton code.
 Please note that the test cases were provided by OSU CS 261.
@@ -62,7 +62,7 @@ equal
 iter
 next
 
-# min_heap.py
+### min_heap.py
 This file contains code to develop functions of min heaps.
 The MinHeapException class and the init and str functions were provided as skeleton code. 
 Please note that the test cases were provided by OSU CS 261.
