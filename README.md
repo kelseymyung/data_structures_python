@@ -8,14 +8,14 @@ static_array.py,
 programming_fundamentals.py,
 dynamic_array.py,
 bag.py,
-min_heap.py,
+min_heap.py.
 
 ### static_array.py
 This file was provided as skeleton code by OSU CS 261 for utilization in development of the following py files:
 programming_fundamentals.py,
 dynamic_array.py,
 bag.py,
-min_heap.py,
+min_heap.py.
 This file was NOT created by me!
 
 ### programming_fundamentals.py
@@ -31,7 +31,7 @@ is_sorted,
 find_mode,
 remove_duplicates,
 count_sort,
-sorted_squares
+sorted_squares.
 
 ### dynamic_array.py
 This file contains code to develop functions of dynamic arrays. 
@@ -47,7 +47,7 @@ merge,
 map,
 filter,
 reduce,
-find_mode
+find_mode.
 
 ### bag.py
 This file contains code to develop functions of bags.
@@ -60,7 +60,7 @@ count,
 clear,
 equal,
 iter,
-next
+next.
 
 ### min_heap.py
 This file contains code to develop functions of min heaps.
@@ -75,6 +75,6 @@ build_heap,
 size,
 clear,
 heapsort,
-percolate_down
+percolate_down.
 
 
